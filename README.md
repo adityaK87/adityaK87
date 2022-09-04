@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 🧠  I'm learning React.js.<br>
-🤝  I'm open to collaborat on Front-end development.<br>
+🤝  I'm open to collaborate on Front-end development.<br>
  📫 How to reach me **adityapal8763244@gmail.com**
 
 <a href="https://www.twitter.com/AdityaP39828624" target="_blank" rel="noreferrer"><img
