@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/adityapal87?logo=github&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/aditya-pal-526121233/" target="_blank" rel="noreferrer"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-768x768.png" width="32" height="32" /></a>
+<p align="left"> <a href="https://www.linkedin.com/in/adityapal87/" target="_blank" rel="noreferrer"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-768x768.png" width="32" height="32" /></a>
 <a href="https://www.twitter.com/@Aditya_pal87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://stackoverflow.com/users/19295822/aditya-kumar?tab=profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="32" height="32" /></a>
 <a href="https://hashnode.com/@adityapal87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
