@@ -6,9 +6,9 @@ Web Developer
 
 🧠  I'm learning React.js.<br>
 🤝  I'm open to collaborate on Front-end development.<br>
- 📫 How to reach me **adityapal8763244@gmail.com**
+📫  How to reach me **adityapal8763244@gmail.com**
 
-<a href="https://www.twitter.com/AdityaP39828624" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/Aditya_pal87" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AdityaP39828624?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/adityapal87" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/adityapal87?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/adityapal87?logo=github&style=for-t
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/aditya-pal-526121233/" target="_blank" rel="noreferrer"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-768x768.png" width="32" height="32" /></a>
-<a href="https://www.twitter.com/@AdityaP39828624" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/@Aditya_pal87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://stackoverflow.com/users/19295822/aditya-kumar?tab=profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="32" height="32" /></a>
 <a href="https://hashnode.com/@adityapal87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
 <a href="http://www.medium.com/@adityapal87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> </p>
