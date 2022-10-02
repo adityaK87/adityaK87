@@ -9,7 +9,7 @@ Web Developer
 📫  How to reach me **adityapal8763244@gmail.com**
 
 <a href="https://www.twitter.com/Aditya_pal87" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/AdityaP39828624?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/Aditya_pal87?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/adityapal87" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/adityapal87?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
