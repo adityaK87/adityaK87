@@ -6,7 +6,7 @@ Web Developer
 
 🧠  I'm learning React.js.<br>
 🤝  I'm open to collaborate on Front-end development.<br>
-📫  How to reach me **adityapal8763244@gmail.com**
+📫  How to reach me **adityapal1409@gmail.com**
 
 <a href="https://www.twitter.com/Aditya_pal87" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Aditya_pal87?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
