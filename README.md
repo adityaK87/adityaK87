@@ -1,4 +1,4 @@
-# Hey 👋 I'm Aditya
+# Hey :wave: I'm Aditya
 
 ## Frontend Developer
 
