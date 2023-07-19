@@ -1,10 +1,10 @@
-<h2 align="center">Namaste<img src="https://png.pngtree.com/png-vector/20220821/ourmid/pngtree-indian-man-with-turban-rajasthani-men-welcome-namaste-greetings-png-image_6119228.png" width="70" /> , I'm Aditya Kumar</h2>
-
-<h3 align="center"> A Frontend Developer from India </h3>
+<h2 align="center">Namaste<img src="https://png.pngtree.com/png-vector/20220821/ourmid/pngtree-indian-man-with-turban-rajasthani-men-welcome-namaste-greetings-png-image_6119228.png" width="70" />, I'm Aditya Kumar</h2>
+<hr/>
+<h3 align="center"> A Frontend Developer from India</h3>
 
 ### 👨‍💻About Me :
 
-I am a Frontend Developer <img src="https://media4.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif?cid=ecf05e47tgjrjq2bd7s33mqn7295a551j15oeseejyv3reei&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"/> from India having experience in React, JavaScript, Webpack, Tailwind, SASS/LESS. Well-versed with git commands and GitHub.
+I am a Frontend Developer <img src="https://media4.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif?cid=ecf05e47tgjrjq2bd7s33mqn7295a551j15oeseejyv3reei&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"/> from India having experience in React, JavaScript, Webpack, tailwind, SASS/LESS. Well-versed with git commands, GitHub.
 
 -   🧠 Currently, I'm learning Node.js.
 -   🤝 I'm open to collaborate on Front-end development.
@@ -19,6 +19,14 @@ I am a Frontend Developer <img src="https://media4.giphy.com/media/ZEUODEtQiUZWG
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40" height="40" alt="Javascript" /></a>&nbsp;<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" width="40" height="40" alt="CSS3" /></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" width="40" height="40" alt="HTML5" /></a>&nbsp;<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" width="40" height="40" alt="TypeScript" /></a>&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/> </a>&nbsp;<a href="https://tailwindcss.com/docs/installation" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="45" height="45"/> </a>&nbsp;<a href="https://sass-lang.com/documentation/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width="40" height="40" alt="SCSS" /></a>&nbsp;<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original-wordmark.svg" width="45" height="45" alt="Webpack" /></a>&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
 
 </p>
+
+---
+
+### ✍️ Blog Posts :
+
+-   [Learn How to create a Chrome Extension using webpack, React and tailwind CSS.](https://blog-aditya.hashnode.dev/learn-how-to-create-a-chrome-extension-using-webpack-react-and-tailwind-css)
+
+-   [Learn How to deploy Chrome-Extension locally.](https://blog-aditya.hashnode.dev/learn-how-to-deploy-chrome-extension-locally-for-developers)
 
 ---
 
@@ -42,8 +50,3 @@ I am a Frontend Developer <img src="https://media4.giphy.com/media/ZEUODEtQiUZWG
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=adityaK87&theme=dark&hide_border=false&border_radius=2)](https://git.io/streak-stats)
 
----
-
-### ✍️ Blog Posts :
-
--   [How to deploy Chrome-Extension locally](https://blog-aditya.hashnode.dev/learn-how-to-deploy-chrome-extension-locally-for-developers)
