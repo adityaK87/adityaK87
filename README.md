@@ -1,5 +1,5 @@
 <h2 align="center">Namaste<img src="https://png.pngtree.com/png-vector/20220821/ourmid/pngtree-indian-man-with-turban-rajasthani-men-welcome-namaste-greetings-png-image_6119228.png" width="70" />, I'm Aditya Kumar</h2>
-<hr/>
+
 <h3 align="center"> A Frontend Developer from India</h3>
 
 ### 👨‍💻About Me :
