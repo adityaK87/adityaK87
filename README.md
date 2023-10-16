@@ -45,6 +45,8 @@ I am a Frontend Developer <img src="https://media4.giphy.com/media/ZEUODEtQiUZWG
 
 ---
 
+[![An image of @adityak87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityak87)](https://holopin.io/@adityak87)
+
 ### 🔥 My GitHub Stats :
 
 <a href="http://www.github.com/adityaK87"><img src="https://github-readme-stats.vercel.app/api?username=adityaK87&show_icons=true&theme=dark" alt="aditya_K87's GitHub stats" /></a>
